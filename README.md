@@ -3,11 +3,17 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
-### *From 9pm to 10pm every day
+ I will code for at least an hour every day for the next 100 days.
+ From 9pm to 10pm every day
 
-#### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+# Language used
++ HTML
++ CSS
++ JavaScript
+
+
+# Start Date
+April 20th 2023
 
 ## Additional Rules
 1. I will plan my task for the day in the 10day log.md file
@@ -17,7 +23,8 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 5. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 6. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
 
-
+## Main Goal
+Becoming a confident JavaScript Developer 
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of my success, it's a requirement that I add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
