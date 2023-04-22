@@ -10,3 +10,11 @@
    + currentTarget property
    + classList
    + textContent
+# Day 3
+I am going to build a Carousel project with the possibility to scroll between each user story and to randommly select a random user.Key concepts covered:
+ + objects
++ DOMContentLoaded
++ addEventListener()
++ array.length
++ textContent
+For yesterdays task i didn't complete it as it supposed to be so i will complete along side this project
