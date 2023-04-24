@@ -1,0 +1,106 @@
+/* 
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-container{ 
+    overflow: hidden;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 100%;
+    height: 200px;
+    
+}
+
+.link-container .links a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.link-container .company-name{ 
+    float: left;
+    font-size: 20px;
+    font-weight: 300;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+ .links a{
+    display: block;
+    gap: 40px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+ .link-container .icon{ 
+    display: none;
+    
+}
+
+@media screen and(max-width:600px) {
+
+    .link-container .links a{
+        display: none;
+    }
+    .link-container a.icon{
+        display: block;
+        float: right;
+   
+    }
+    
+} */
+
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link-container{
+    background-color: #d3cece;
+}
+
+.link-container .company-name{
+    display: block;
+    float: left;
+}
+
+.link-container .icon{
+    display: none;
+}
+
+.link-container .links{
+
+    overflow: hidden;
+    background-color: #333;
+    width: fit-content;
+    height: fit-content;
+    margin-left: 300px;
+
+}
+
+.link-container .links a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+@media screen and(max-width:600px) { 
+
+    .link-container .icon{
+        display: block;
+        float: right;
+    }
+
+    .link-container .links a{
+        display: none;
+        float: none;
+    }
+    
+}
