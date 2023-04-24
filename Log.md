@@ -18,3 +18,9 @@ I am going to build a Carousel project with the possibility to scroll between ea
 + array.length
 + textContent
 For yesterdays task i didn't complete it as it supposed to be so i will complete along side this project
+# Day 4
+Today i am  building a responsive navbar and  reviewing on my past task on how to get it better
+* document.querySelector()
+* addEventListener()
+* classList.toggle()
+
