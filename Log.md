@@ -24,3 +24,6 @@ Today i am  building a responsive navbar and  reviewing on my past task on how t
 * addEventListener()
 * classList.toggle()
 
+# Day 5
+* Today I'll be building a side bar using the 
+ knowledge I leaned from yesterday's task of building a responsive navbar
