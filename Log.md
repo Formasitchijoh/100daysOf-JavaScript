@@ -36,3 +36,6 @@ The concepts to be learned is
 
 # Day 6
 I studied RegExp in JavaScript, Iterables, String methods
+
+# Day 7
+I am studying Classes and Objects in JavaScript 
