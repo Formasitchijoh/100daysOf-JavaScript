@@ -33,3 +33,6 @@ The concepts to be learned is
 * addEventListener()
  * classList.toggle()
 * classList.remove()
+
+# Day 6
+I studied RegExp in JavaScript, Iterables, String methods
