@@ -44,7 +44,7 @@ I am studying Classes and Objects in JavaScript
 Today i am a bit late but i am building a lorem apsodum d=generator using javaScript and Objects in reacts
 Key concepts covered:
 
-document.querySelector()
-addEventListener()
-classList.add()
-classList.remove()
+ * document.querySelector()
+* addEventListener()
+* classList.add()
+* classList.remove()
