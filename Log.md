@@ -39,3 +39,12 @@ I studied RegExp in JavaScript, Iterables, String methods
 
 # Day 7
 I am studying Classes and Objects in JavaScript 
+
+# Day 8
+Today i am a bit late but i am building a lorem apsodum d=generator using javaScript and Objects in reacts
+Key concepts covered:
+
+document.querySelector()
+addEventListener()
+classList.add()
+classList.remove()
