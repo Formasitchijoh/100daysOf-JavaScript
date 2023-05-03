@@ -48,3 +48,12 @@ Key concepts covered:
 * addEventListener()
 * classList.add()
 * classList.remove()
+
+# Day 9
+Today i am building a sidebar using the concept i learned from yesterday to build a responsive side bar
+Key concepts covered:
+
+* document.querySelector()
+* addEventListener()
+* classList.toggle()
+* classList.remove()
