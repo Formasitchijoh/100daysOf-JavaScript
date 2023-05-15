@@ -57,3 +57,13 @@ Key concepts covered:
 * addEventListener()
 * classList.toggle()
 * classList.remove()
+
+#Day 17
+Today i am building a modal using plain javaScript for a websitethat pops up when a user forgets to perform an action of a website
+key conscepts covered
+Key concepts covered:
+
+* document.querySelector()
+* addEventListener()
+* classList.add()
+* classList.remove()
