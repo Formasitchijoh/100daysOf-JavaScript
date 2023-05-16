@@ -67,3 +67,13 @@ Key concepts covered:
 * addEventListener()
 * classList.add()
 * classList.remove()
+
+# Day 18
+I am building a fAQ Ppage that shows visibility on clicking a button like the modal i made yesterday
+things learned
+Key concepts covered
+* document.querySelectorAll()
+* addEventListener()
+* forEach()
+* classList.remove()
+* classList.toggle(
